@@ -335,7 +335,7 @@ SOFTWARE.
 
 Having issues? We're here to help!
 
-- 📧 Email: support@vibetune.app
+- 📧 Email: dexdenis3@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/Denis-7242/vibetune/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/Denis-7242/vibetune/discussions)
 
